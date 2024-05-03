@@ -54,7 +54,7 @@ Follow these steps to run the application:
 
 1. **Start the Application**:
     ```bash
-    python yourscript.py
+    python main.py
     ```
 
 2. **Load Data**:
