@@ -81,7 +81,7 @@ Contributions to this project are welcome! Here's how you can contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SheriefAttia/ML-Data-Clustering-App/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
